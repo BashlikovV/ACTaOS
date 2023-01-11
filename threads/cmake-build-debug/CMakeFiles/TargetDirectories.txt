@@ -1,0 +1,3 @@
+/home/bashlykovvv/Test/threadLB/threads/cmake-build-debug/CMakeFiles/threads.dir
+/home/bashlykovvv/Test/threadLB/threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bashlykovvv/Test/threadLB/threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
